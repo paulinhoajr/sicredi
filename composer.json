@@ -1,0 +1,22 @@
+{
+    "name": "paulinhoajr/sicredi",
+    "description": "Modulo de pagamentos webservice",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paulinhoajr\\Sicredi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Rodrigues",
+            "email": "paulinhoajrodrigues@gmail.com"
+        },
+        {
+            "name": "Paulo Junior",
+            "email": "pejotinhas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
